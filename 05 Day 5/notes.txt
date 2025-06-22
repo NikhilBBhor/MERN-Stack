@@ -5,3 +5,5 @@ Install nodemon --> npm install nodemon -D (D means as dev dependancies)
 Install mongoose --> npm install mongoose
 Install dotenv --> npm i dotenv
 Installation for ratelimiting --> npm i @upstash/ratelimiting@2.0.5 @upstash/redis@1.34.9
+
+Test
