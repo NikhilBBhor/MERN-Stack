@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "06-building-notes-app": "file:..",
     "axios": "^1.10.0",
     "daisyui": "^4.12.24",
     "lucide-react": "^0.523.0",

@@ -20,3 +20,4 @@ Install tailwind css intellisence extension --> autocomplete tailwindcss classes
 Install daisy ui --> npm i daisyui@4.12.24 -D
 Install lucide react icon library --> npm i lucide-react
 Install axios package --> npm i axios
+
